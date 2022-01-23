@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/nixtripe/nixtripe/main/nixtriplogo.png)
+
 - 👋 Hi, I’m @nixtripe
 - 👀 I’m interested in JS , PHP , MYSQLI
 - 🌱 I’m currently learning C++ & C#
