@@ -1,4 +1,4 @@
-  <img width="360" height="250" src="https://raw.githubusercontent.com/nixtripe/nixtripe/main/nixtriplogo.png">
+  <img src="https://raw.githubusercontent.com/nixtripe/nixtripe/main/nixtriplogo.png">
 
 - 👋 Hi, I’m @nixtripe
 - 👀 I’m interested in JS , PHP , MYSQLI
